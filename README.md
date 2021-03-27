@@ -2,9 +2,9 @@
 <h3 align="left">Presence:</h3>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paul-cruz&theme=tokyonight_duo" alt="paul-cruz" /></p>
 <h3 align="left">Stats:</h3>
-<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=paul-cruz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="paul-cruz" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-cruz&hide=php,dart,html,css&langs_count=10&layout=compact&theme=tokyonight" alt="paul-cruz" /></p>
+<p align="center"><img align="left" src="https://github-readme-stats.vercel.app/api?username=paul-cruz&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="paul-cruz" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paul-cruz&hide=php,dart,html,css&langs_count=10&layout=compact&theme=tokyonight" alt="paul-cruz" /></p>
 
-<br/>
+<br/><br/><br/><br/><br/><br/><br/><br/>
 <h3 align="left">About me:</h3>
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/paul-cruz?tab=repositories)</li>
