@@ -1,5 +1,5 @@
-<p align="center"><img align="center" src="https://github.com/paul-cruz/paul-cruz/blob/main/assets/git-banner.gif" alt="paul-cruz" /></p>
-<br/><br/><br/><br/><br/><br/><br/><br/>
+<p align="center"><img align="center" src="assets/git-banner.gif" alt="paul-cruz" /></p>
+<br/>
 <h3 align="left">About me:</h3>
 
 - ☁️ Cloud Engineer at Globant
